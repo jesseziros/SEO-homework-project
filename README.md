@@ -1,2 +1,3 @@
 # SEO-homework-project
-My first SEO project
+My first SEO project. 
+On the homework I went into a lot of research on accessibilty for a website and how to proper semantic the code. I found out that a lot more then just visual aspects come into play with making and designing a website. Before this project I had never considered people with disabilities such as blindness would need to be accomidated to a website. I also did research into why the website loaded so slowly and found that before loading a picture it would have needed to be compressed before adding it to your code. To accomidate people with seeing imparments I did enlarge the text to make it easier to read. Also one of the fall down buttons on the top of the screen was not functioning and needed to be fixed. All in all the project was enjoyable. I love solving puzzle and diagnosing problems and fixing them.
